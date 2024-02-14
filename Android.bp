@@ -1,3 +1,5 @@
+soong_namespace {
+}
 GNSS_CFLAGS = [
     "-Wno-error=unused-parameter",
     "-Wno-error=macro-redefined",
